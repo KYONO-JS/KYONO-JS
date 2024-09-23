@@ -47,7 +47,7 @@
         />
         <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KYONO-JS&show_icons=true&bg_color=00000000" /></a>
     </picture>
-    <a href="#"><img src="https://preview.redd.it/5f4smdm2rfd81.gif?width=446&auto=webp&s=d6baf7891482cc5fe6bf893ba05dc9fec950836c" height="300" width="300"></a>
+    <a href="#"><img src="https://preview.redd.it/5f4smdm2rfd81.gif?width=446&auto=webp&s=d6baf7891482cc5fe6bf893ba05dc9fec950836c" height="200" width="300"></a>
 </div>
 
 <div align="center">
