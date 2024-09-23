@@ -3,4 +3,8 @@
     <img src="https://images.cooltext.com/5709356.png" height="200px" width="600px">
 </div>
 
-## 🧁 | ケーキはおいしいです！
+<br>
+
+<div align="center">
+    <h3>🧁 | ケーキはおいしいです！</h3>
+</div>
