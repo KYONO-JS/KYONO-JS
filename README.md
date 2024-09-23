@@ -1,6 +1,6 @@
-<div align="center">
-    <img height="210" width="210" src="https://d9jhi50qo719s.cloudfront.net/7ap/samples/iir_800.gif?230809025525" alt="SittingGif">
-    <img src="https://images.cooltext.com/5709356.png" height="180" width="600">
+<div align="left">
+    <img src="https://i.postimg.cc/vH4hVd3L/KYONO-DEV-9-23-2024-1.png" height="210" width="590">
+    <img height="300" width="350" src="https://i.sstatic.net/022Fl.gif">
 </div>
 
 
@@ -35,18 +35,26 @@
 </div>
 <h1> </h1> 
 
-<div align="center">
+<div align="left">
     <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KYONO-JS&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=KYONO-JS&show_icons=true&theme=dark&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=KYONO-JS&show_icons=true&bg_color=00000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KYONO-JS&show_icons=true&bg_color=00000000" />
 </picture>
-<img src="https://i.sstatic.net/022Fl.gif" hieght="250" width="250">
 
+<img src="https://preview.redd.it/5f4smdm2rfd81.gif?width=446&auto=webp&s=d6baf7891482cc5fe6bf893ba05dc9fec950836c" hieght="300" width="300">
+
+</div>
+
+
+
+
+<div align="center">
+    <h1>🧁 | ケーキはおいしいです！</h1>
 </div>
