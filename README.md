@@ -3,13 +3,6 @@
     <img src="https://images.cooltext.com/5709356.png" height="180" width="600">
 </div>
 
-<br>
-
-<div align="center">
-    <h3>🧁 | ケーキはおいしいです！</h3>
-</div>
-
-<hr>
 
 <div align="center">
     <h1>👋 | Ｈｅｌｌｏ， Ｉ＇ｍ Ｋｙｏｎｏꀭꌗ．</h1>
@@ -24,6 +17,8 @@
     <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg" height="50" width="50">
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png" height="50" width="50">
     <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" height="50" width="50">
+    <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" height="50" width="50">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" height="50" width="50">
 </div>
 
 <div align="center">
