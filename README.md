@@ -26,10 +26,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" height="50" width="50">
 </div>
 
-<div align="left">
-    <img src="https://www.icegif.com/wp-content/uploads/2024/08/anime-icegif-2.gif" height="100" width="100">
-</div>
-
 <div align="center">
     <h2>𝗛𝗲𝗿𝗲'𝘀 𝘁𝗼𝗼𝗹𝘀 𝗜 𝘂𝘀𝗲 𝗶𝗻 𝗺𝘆 𝗱𝗮𝗶𝗹𝘆 𝗿𝗼𝘂𝘁𝗶𝗻𝗲!</h2>
 </div>
@@ -42,7 +38,20 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" height="55" width="55">
     <img src="https://cdn-icons-png.flaticon.com/512/7560/7560719.png" height="50" width="50">
 </div>
+<h1> </h1> 
 
-<div>
- 
+<div align="center">
+    <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=KYONO-JS&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+<img src="https://i.sstatic.net/022Fl.gif" hieght="250" width="250">
+
 </div>
