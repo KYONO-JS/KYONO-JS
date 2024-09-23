@@ -1,6 +1,6 @@
 <div align="left">
     <img src="https://i.postimg.cc/vH4hVd3L/KYONO-DEV-9-23-2024-1.png" height="210" width="590">
-    <img height="300" width="350" src="https://i.sstatic.net/022Fl.gif">
+    <img height="200" width="250" src="https://i.sstatic.net/022Fl.gif">
 </div>
 
 
