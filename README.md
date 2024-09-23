@@ -63,10 +63,11 @@
 </div>
 
 <div align="center">
-    <a href="https://www.roblox.com/users/2610152370/profile"><img src="https://img.icons8.com/ios11/200/FFFFFF/roblox.png" alt="Roblox Profile" height="100px" width="100px"></a>
+<a href="https://www.roblox.com/users/2610152370/profile"><img src="https://img.icons8.com/ios11/200/FFFFFF/roblox.png" alt="Roblox Profile" height="100px" width="100px"></a>
 <a href="https://steamcommunity.com/id/KynKynGo/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Steam_logo.png/1200px-Steam_logo.png" alt="Roblox Profile" height="100px" width="100px"></a>
-    <a href="https://discord.com/channels/@me/1146988475879542885"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" alt="Roblox Profile" height="100px" width="100px"></a>
-
+<a href="https://discord.com/channels/@me/1146988475879542885"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" alt="Roblox Profile" height="100px" width="100px"></a>
+<a href="https://www.youtube.com/@Kyono_xyz"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-app-white-icon.png" alt="Roblox Profile" height="100px" width="100px"></a>
+<a href="https://www.twitch.tv/yando_kyono/profile"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitch-white-icon.png" height="100px" width="100px"></a>
 </div>
 
 <div align="center">
