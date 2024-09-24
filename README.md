@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-    <h1>👋 | Ｈｅｌｌｏ， Ｉ＇m Ｋｙｏｎｏꀭꌗ．</h1>
-    <h3>𝗟𝗲𝘁𝘀 𝘀𝗲𝗲 𝘄𝗵𝗮𝘁 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗜 𝘂𝘀𝗲🤔</h3>
+    <h1>👋 | Ｈｅｌｌｏ， Ｉ＇ｍ Ｋｙｏｎｏꀭꌗ．</h1>
+    <h3>𝗟𝗲𝘁'𝘀 𝘀𝗲𝗲 𝘄𝗵𝗮𝘁 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗜 𝘂𝘀𝗲🤔</h3>
 </div>
 
 <div align="center">
@@ -37,15 +37,9 @@
 
 <div align="left">
     <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api?username=KYONO-JS&show_icons=true&theme=dark&bg_color=00000000"
-            media="(prefers-color-scheme: dark)"
-        />
-        <source
-            srcset="https://github-readme-stats.vercel.app/api?username=KYONO-JS&show_icons=true&bg_color=00000000"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KYONO-JS&show_icons=true&bg_color=00000000" alt="GitHub Stats"/></a>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=KYONO-JS&show_icons=true&theme=dark&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=KYONO-JS&show_icons=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KYONO-JS&show_icons=true&bg_color=00000000" alt="GitHub Stats" /></a>
     </picture>
     <a href="#"><img src="https://preview.redd.it/5f4smdm2rfd81.gif?width=446&auto=webp&s=d6baf7891482cc5fe6bf893ba05dc9fec950836c" height="200" width="300" alt="GIF Animation"></a>
 </div>
@@ -63,14 +57,19 @@
 </div>
 
 <div align="center">
-<a href="https://www.roblox.com/users/2610152370/profile"><img src="https://img.icons8.com/ios11/200/FFFFFF/roblox.png" alt="Roblox Profile" height="100px" width="100px"></a>
-<a href="https://steamcommunity.com/id/KynKynGo/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Steam_logo.png/1200px-Steam_logo.png" alt="Roblox Profile" height="100px" width="100px"></a>
-<a href="https://discord.com/channels/@me/1146988475879542885"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" alt="Roblox Profile" height="100px" width="100px"></a>
-<a href="https://www.youtube.com/@Kyono_xyz"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-app-white-icon.png" alt="Roblox Profile" height="100px" width="100px"></a>
-<a href="https://www.twitch.tv/yando_kyono/profile"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitch-white-icon.png" height="100px" width="100px"></a>
-    <a href="#"><img src="https://i.pinimg.com/originals/e4/da/8f/e4da8fcec889c6426bed3677b1f5c07d.gif" height="230" width="158px"></a>
+    <a href="https://www.roblox.com/users/2610152370/profile"><img src="https://img.icons8.com/ios11/200/FFFFFF/roblox.png" alt="Roblox Profile" height="100px" width="100px"></a>
+    <a href="https://steamcommunity.com/id/KynKynGo/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Steam_logo.png/1200px-Steam_logo.png" alt="Steam Profile" height="100px" width="100px"></a>
+    <a href="https://discord.com/channels/@me/1146988475879542885"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" alt="Discord Profile" height="100px" width="100px"></a>
+    <a href="https://www.youtube.com/@Kyono_xyz"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-app-white-icon.png" alt="YouTube Profile" height="100px" width="100px"></a>
+    <a href="https://www.twitch.tv/yando_kyono/profile"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitch-white-icon.png" alt="Twitch Profile" height="100px" width="100px"></a>
+    <a href="#"><img src="https://i.pinimg.com/originals/e4/da/8f/e4da8fcec889c6426bed3677b1f5c07d.gif" height="230" width="158px" alt="GIF Animation"></a>
 </div>
 
-<div align="left">
-    <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSioUzNMKaVks1gJIQLIPutuGmQ-0WYrzn69w&s" > <h1>🧁 | ケーキはおいしいです！</h1> </a>
+<h1>  </h1>
+
+<div style="display: flex; flex-direction: column; width: max-content;">
+    <div style="display: flex; flex-direction: row;" align="center">
+        <img src="https://64.media.tumblr.com/901dfb691286f51bdd58918c76167f92/81558f769c234602-88/s500x750/8262020a95fb3e42a805b822cc3bdf48f5d3d95d.gif" height="200px" width="200px">
+        <img height="217" src="https://lanyard.cnrad.dev/api/1146988475879542885" alt="Discord Activity" width="430px"/>
+    </div>
 </div>
