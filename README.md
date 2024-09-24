@@ -52,8 +52,10 @@
     <a href="#"><img src="https://i.postimg.cc/vHMJ5h4Z/Untitled-3-removebg-preview.png" alt="Talent Image 1"></a>
 </div>
 
+<h1>  </h1>
+
 <div align="center">
-    <h2>Other Profiles✨</h2>
+    <h1>𝗢𝘁𝗵𝗲𝗿 𝗣𝗿𝗼𝗳𝗶𝗹𝗲𝘀✨</h1>
 </div>
 
 <div align="center">
