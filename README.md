@@ -68,8 +68,9 @@
 <a href="https://discord.com/channels/@me/1146988475879542885"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" alt="Roblox Profile" height="100px" width="100px"></a>
 <a href="https://www.youtube.com/@Kyono_xyz"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-app-white-icon.png" alt="Roblox Profile" height="100px" width="100px"></a>
 <a href="https://www.twitch.tv/yando_kyono/profile"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitch-white-icon.png" height="100px" width="100px"></a>
+    <a href="#"><img src="https://i.pinimg.com/originals/e4/da/8f/e4da8fcec889c6426bed3677b1f5c07d.gif" height="230" width="158px"></a>
 </div>
 
-<div align="center">
+<div align="left">
     <h1>🧁 | ケーキはおいしいです！</h1>
 </div>
